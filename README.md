@@ -8,5 +8,5 @@ A responsive web-application build with the following technologies:
 
 ## Demo
 
-https://user-images.githubusercontent.com/48312706/148699824-78643b7f-4e5c-4493-98ed-706c36b749a1.mp4
+https://user-images.githubusercontent.com/48312706/148699897-4d3c5f7a-4e5e-4b3d-9e0c-4cb70b868a9c.mp4
 
